@@ -1,0 +1,433 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/freeBasic/bin/win64/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find crtbegin.o: No such file or directory
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lgcc
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lgcc_eh
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lpthread
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lgcc
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lgcc_eh
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find crtend.o: No such file or directory
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Galileo/Desktop/Snoow/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/msys/1.0/bin/make.exe -f Makefile cmTC_c2b5e/fast && /usr/bin/make  -f CMakeFiles/cmTC_c2b5e.dir/build.make CMakeFiles/cmTC_c2b5e.dir/build
+make[1]: Entering directory `/c/Users/Galileo/Desktop/Snoow/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c2b5e.dir/CMakeCCompilerABI.c.obj
+C:/freeBasic/bin/win64/gcc.exe   -v -o CMakeFiles/cmTC_c2b5e.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=c:\freeBasic\bin\win64\gcc.exe
+Target: x86_64-w64-mingw32
+Configured with: ./configure --prefix=/R/winlibs64-sjlj-9.3.0/inst_gcc-9.3.0/share/gcc --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --with-pkgversion='MinGW-W64 x86_64-posix-sjlj, built by Brecht Sanders' --with-tune=generic --enable-checking=release --enable-threads=posix --without-dwarf2 --enable-sjlj-exceptions --disable-libunwind-exceptions --enable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --enable-default-ssp --disable-rpath --disable-libstdcxx-pch --enable-libstdcxx-time=yes --disable-libstdcxx-debug --disable-version-specific-runtime-libs --with-stabs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++,d --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --with-mpc=/d/Prog/winlibs64-sjlj-9.3.0/custombuilt --with-mpfr=/d/Prog/winlibs64-sjlj-9.3.0/custombuilt --with-gmp=/d/Prog/winlibs64-sjlj-9.3.0/custombuilt --with-isl=/d/Prog/winlibs64-sjlj-9.3.0/custombuilt --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --with-libiconv --with-system-zlib --with-build-sysroot=/R/winlibs64-sjlj-9.3.0/gcc-9.3.0/mingw-w64
+Thread model: posix
+gcc version 9.3.0 (MinGW-W64 x86_64-posix-sjlj, built by Brecht Sanders) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c2b5e.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64'
+ c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/cc1.exe -quiet -v -iprefix c:\freebasic\bin\win64\../lib/gcc/x86_64-w64-mingw32/9.3.0/ -D_REENTRANT C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_c2b5e.dir/CMakeCCompilerABI.c.obj -version -o C:\Users\Galileo\AppData\Local\Temp\ccjLh5ZJ.s
+GNU C17 (MinGW-W64 x86_64-posix-sjlj, built by Brecht Sanders) version 9.3.0 (x86_64-w64-mingw32)
+	compiled by GNU C version 9.3.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\freebasic\bin\win64\../lib/gcc/x86_64-w64-mingw32/9.3.0/include"
+ignoring nonexistent directory "c:\freebasic\bin\win64\../lib/gcc/x86_64-w64-mingw32/9.3.0/../../../../include"
+ignoring nonexistent directory "c:\freebasic\bin\win64\../lib/gcc/x86_64-w64-mingw32/9.3.0/include-fixed"
+ignoring nonexistent directory "c:\freebasic\bin\win64\../lib/gcc/x86_64-w64-mingw32/9.3.0/../../../../x86_64-w64-mingw32/include"
+ignoring nonexistent directory "c:/freebasic/bin/lib/gcc/x86_64-w64-mingw32/9.3.0/include"
+ignoring nonexistent directory "R:/winlibs64-sjlj-9.3.0/inst_gcc-9.3.0/share/gcc/include"
+ignoring nonexistent directory "/R/winlibs64-sjlj-9.3.0/inst_gcc-9.3.0/share/gcc/include"
+ignoring nonexistent directory "c:/freebasic/bin/lib/gcc/x86_64-w64-mingw32/9.3.0/include-fixed"
+ignoring nonexistent directory "c:/freebasic/bin/x86_64-w64-mingw32/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /mingw/include
+End of search list.
+GNU C17 (MinGW-W64 x86_64-posix-sjlj, built by Brecht Sanders) version 9.3.0 (x86_64-w64-mingw32)
+	compiled by GNU C version 9.3.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 74af2ed56f09dcf3a2b76e2b4b00a6f8
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c2b5e.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64'
+ c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/as.exe -v -o CMakeFiles/cmTC_c2b5e.dir/CMakeCCompilerABI.c.obj C:\Users\Galileo\AppData\Local\Temp\ccjLh5ZJ.s
+GNU assembler version 2.34 (x86_64-w64-mingw32) using BFD version (Binutils for MinGW-W64 x86_64, built by Brecht Sanders) 2.34
+COMPILER_PATH=c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/;c:/freebasic/bin/win64/../libexec/gcc/
+LIBRARY_PATH=/mingw/lib/../lib/;/mingw/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c2b5e.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=x86-64'
+Linking C executable cmTC_c2b5e.exe
+"C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/cmTC_c2b5e.dir/objects.a
+C:/freeBasic/bin/win64/ar.exe qc CMakeFiles/cmTC_c2b5e.dir/objects.a @CMakeFiles/cmTC_c2b5e.dir/objects1.rsp
+C:/freeBasic/bin/win64/gcc.exe  -v -Wl,--whole-archive CMakeFiles/cmTC_c2b5e.dir/objects.a -Wl,--no-whole-archive -o cmTC_c2b5e.exe -Wl,--out-implib,libcmTC_c2b5e.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Using built-in specs.
+COLLECT_GCC=c:\freeBasic\bin\win64\gcc.exe
+Target: x86_64-w64-mingw32
+Configured with: ./configure --prefix=/R/winlibs64-sjlj-9.3.0/inst_gcc-9.3.0/share/gcc --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --with-pkgversion='MinGW-W64 x86_64-posix-sjlj, built by Brecht Sanders' --with-tune=generic --enable-checking=release --enable-threads=posix --without-dwarf2 --enable-sjlj-exceptions --disable-libunwind-exceptions --enable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --enable-default-ssp --disable-rpath --disable-libstdcxx-pch --enable-libstdcxx-time=yes --disable-libstdcxx-debug --disable-version-specific-runtime-libs --with-stabs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++,d --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --with-mpc=/d/Prog/winlibs64-sjlj-9.3.0/custombuilt --with-mpfr=/d/Prog/winlibs64-sjlj-9.3.0/custombuilt --with-gmp=/d/Prog/winlibs64-sjlj-9.3.0/custombuilt --with-isl=/d/Prog/winlibs64-sjlj-9.3.0/custombuilt --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --with-libiconv --with-system-zlib --with-build-sysroot=/R/winlibs64-sjlj-9.3.0/gcc-9.3.0/mingw-w64
+Thread model: posix
+gcc version 9.3.0 (MinGW-W64 x86_64-posix-sjlj, built by Brecht Sanders) 
+COMPILER_PATH=c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/;c:/freebasic/bin/win64/../libexec/gcc/
+LIBRARY_PATH=/mingw/lib/../lib/;/mingw/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c2b5e.exe' '-mtune=generic' '-march=x86-64'
+ c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe -plugin c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/liblto_plugin-0.dll -plugin-opt= -plugin-opt=-fresolution=C:\Users\Galileo\AppData\Local\Temp\ccr33Yfb.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -m i386pep -Bdynamic -o cmTC_c2b5e.exe /mingw/lib/../lib/crt2.o crtbegin.o -L/mingw/lib/../lib -L/mingw/lib --whole-archive CMakeFiles/cmTC_c2b5e.dir/objects.a --no-whole-archive --out-implib libcmTC_c2b5e.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt crtend.o
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find crtbegin.o: No such file or directory
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lgcc
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lgcc_eh
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lpthread
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lgcc
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lgcc_eh
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find crtend.o: No such file or directory
+make[1]: *** [cmTC_c2b5e.exe] Error 1
+make[1]: Leaving directory `/c/Users/Galileo/Desktop/Snoow/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_c2b5e/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Galileo/Desktop/Snoow/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/msys/1.0/bin/make.exe -f Makefile cmTC_7d0e1/fast && /usr/bin/make  -f CMakeFiles/cmTC_7d0e1.dir/build.make CMakeFiles/cmTC_7d0e1.dir/build
+make[1]: Entering directory `/c/Users/Galileo/Desktop/Snoow/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7d0e1.dir/testCCompiler.c.obj
+C:/freeBasic/bin/win64/gcc.exe    -o CMakeFiles/cmTC_7d0e1.dir/testCCompiler.c.obj -c C:/Users/Galileo/Desktop/Snoow/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_7d0e1.exe
+"C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/cmTC_7d0e1.dir/objects.a
+C:/freeBasic/bin/win64/ar.exe qc CMakeFiles/cmTC_7d0e1.dir/objects.a @CMakeFiles/cmTC_7d0e1.dir/objects1.rsp
+C:/freeBasic/bin/win64/gcc.exe -Wl,--whole-archive CMakeFiles/cmTC_7d0e1.dir/objects.a -Wl,--no-whole-archive -o cmTC_7d0e1.exe -Wl,--out-implib,libcmTC_7d0e1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_7d0e1.dir/linklibs.rsp
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find crtbegin.o: No such file or directory
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libgdi32.a when searching for -lgdi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libgdi32.a when searching for -lgdi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libgdi32.a when searching for -lgdi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libgdi32.a when searching for -lgdi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libgdi32.a when searching for -lgdi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libgdi32.a when searching for -lgdi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lgdi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libwinspool.a when searching for -lwinspool
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libwinspool.a when searching for -lwinspool
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libwinspool.a when searching for -lwinspool
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libwinspool.a when searching for -lwinspool
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libwinspool.a when searching for -lwinspool
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libwinspool.a when searching for -lwinspool
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lwinspool
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libole32.a when searching for -lole32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libole32.a when searching for -lole32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libole32.a when searching for -lole32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libole32.a when searching for -lole32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libole32.a when searching for -lole32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libole32.a when searching for -lole32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lole32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/liboleaut32.a when searching for -loleaut32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\liboleaut32.a when searching for -loleaut32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/liboleaut32.a when searching for -loleaut32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\liboleaut32.a when searching for -loleaut32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/liboleaut32.a when searching for -loleaut32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/liboleaut32.a when searching for -loleaut32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -loleaut32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libuuid.a when searching for -luuid
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libuuid.a when searching for -luuid
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libuuid.a when searching for -luuid
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libuuid.a when searching for -luuid
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libuuid.a when searching for -luuid
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libuuid.a when searching for -luuid
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -luuid
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libcomdlg32.a when searching for -lcomdlg32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libcomdlg32.a when searching for -lcomdlg32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libcomdlg32.a when searching for -lcomdlg32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libcomdlg32.a when searching for -lcomdlg32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libcomdlg32.a when searching for -lcomdlg32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libcomdlg32.a when searching for -lcomdlg32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lcomdlg32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lgcc
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lgcc_eh
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lpthread
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libadvapi32.a when searching for -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -ladvapi32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libshell32.a when searching for -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lshell32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libuser32.a when searching for -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -luser32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libkernel32.a when searching for -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lkernel32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingw32.a when searching for -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmingw32
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lgcc
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lgcc_eh
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmoldname.a when searching for -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmoldname
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmingwex.a when searching for -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmingwex
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib\libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib\libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/../lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: skipping incompatible /mingw/lib/libmsvcrt.a when searching for -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find -lmsvcrt
+c:/freebasic/bin/win64/../libexec/gcc/x86_64-w64-mingw32/9.3.0/ld.exe: cannot find crtend.o: No such file or directory
+make[1]: *** [cmTC_7d0e1.exe] Error 1
+make[1]: Leaving directory `/c/Users/Galileo/Desktop/Snoow/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_7d0e1/fast] Error 2
+
+
+

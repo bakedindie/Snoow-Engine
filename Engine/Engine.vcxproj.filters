@@ -27,9 +27,15 @@
     <ClInclude Include="src\Snoow\Main.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Snoow\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Snoow\EngineApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Snoow\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

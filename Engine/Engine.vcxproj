@@ -57,6 +57,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>SN_PLATFORM_WINDOWS;SN_BUILD_DLL;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>$(SolutionDir)include\spdlog\include\;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -71,6 +72,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>SN_PLATFORM_WINDOWS;SN_BUILD_DLL;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>$(SolutionDir)include\spdlog\include\;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -80,12 +82,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="src\Snoow\Log.h" />
     <ClInclude Include="src\Snoow.h" />
     <ClInclude Include="src\Snoow\EngineApp.h" />
     <ClInclude Include="src\Snoow\Core.h" />
     <ClInclude Include="src\Snoow\Main.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\Snoow\Log.cpp" />
     <ClCompile Include="src\Snoow\EngineApp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
