@@ -7,13 +7,15 @@ workspace "Snoow"
         "Distro"
     }
 
+outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
+
 project "Engine"
-    location "Snoow"
-    kind "ConsoleApp"
+    location "Engine"
+    kind "SharedLib"
     language "C++"
 
-    targetdir ("bin/" ..outputdir.. "/%{prj.name}")
-    objdir ("bin-int/" ..outputdir.. "/%{prj.name}")
+    targetdir ("bin/" .. outputdir .. "/%{prj.name}")
+    objdir ("bin-int/" .. outputdir .. "/%{prj.name}")
 
     files
     {
@@ -23,7 +25,7 @@ project "Engine"
 
     includedirs
     {
-        "%{workspace}/include/spdlog/include/"
+        "include/spdlog/include/"
     }
 
     filter "system:windows"
@@ -31,7 +33,7 @@ project "Engine"
         staticruntime "On"
         systemversion "latest"
 
-        define
+        defines
         {
             "SN_PLATFORM_WINDOWS",
             "SN_BUILD_DLL"
@@ -54,9 +56,9 @@ project "Engine"
             defines "SN_DISTRO"
             optimize "On"
 
-project "Engine"
-    location "Snoow"
-    kind "SharedLib"
+project "Sandbox"
+    location "Sandbox"
+    kind "ConsoleApp"
     language "C++"
         
     targetdir ("bin/" .. outputdir .. "/%{prj.name}")
@@ -70,7 +72,7 @@ project "Engine"
         
     includedirs
     {
-        "%{workspace}/include/spdlog/include/",
+        "../include/spdlog/include/",
         "Engine/src"
     }
 
@@ -84,7 +86,7 @@ project "Engine"
         staticruntime "On"
         systemversion "latest"
         
-        define
+        defines
         {
             "SN_PLATFORM_WINDOWS"
         }
