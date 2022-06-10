@@ -1,4 +1,6 @@
+#include "pch.h"
 #include "EngineApp.h"
+
 namespace Snoow 
 {
 	EngineApp::EngineApp()
@@ -13,9 +15,10 @@ namespace Snoow
 
 	void EngineApp::Run()
 	{
+
 		while (true)
 		{
-
+			
 		}
 	}
 }

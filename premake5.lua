@@ -17,6 +17,9 @@ project "Engine"
     targetdir ("bin/" .. outputdir .. "/%{prj.name}")
     objdir ("bin-int/" .. outputdir .. "/%{prj.name}")
 
+    pchheader "pch.h"
+    pchsource "Engine/src/pch.cpp"
+
     files
     {
         "%{prj.name}/src/**.h",
@@ -25,7 +28,20 @@ project "Engine"
 
     includedirs
     {
-        "include/spdlog/include/"
+        "Engine/src",
+        "include/spdlog/include/",
+        "include/SDL2/include/"
+    }
+
+    libdirs
+    {
+        "include/SDL2/lib/"
+    }
+
+    links
+    {
+        "SDL2.lib",
+        "SDL2_main.lib"
     }
 
     filter "system:windows"
@@ -72,13 +88,21 @@ project "Sandbox"
         
     includedirs
     {
-        "../include/spdlog/include/",
+        "include/spdlog/include/",
+        "include/SDL2/include/",
         "Engine/src"
+    }
+
+    libdirs
+    {
+        "include/SDL2/lib/"
     }
 
     links
     {
-        "Engine"
+        "Engine",
+        "SDL2.lib",
+        "SDL2_main.lib"
     }
         
     filter "system:windows"

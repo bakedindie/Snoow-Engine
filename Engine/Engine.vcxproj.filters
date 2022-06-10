@@ -19,9 +19,8 @@
     <ClInclude Include="src\Snoow\Main.h">
       <Filter>Snoow</Filter>
     </ClInclude>
-    <ClInclude Include="src\Snoow\Window.h">
-      <Filter>Snoow</Filter>
-    </ClInclude>
+    <ClInclude Include="src\pch.h" />
+    <ClInclude Include="src\Snoow\Window.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Snoow\EngineApp.cpp">
@@ -30,5 +29,8 @@
     <ClCompile Include="src\Snoow\Log.cpp">
       <Filter>Snoow</Filter>
     </ClCompile>
+    <ClCompile Include="src\pch.cpp" />
+    <ClCompile Include="src\Snoow\Window.cpp" />
+    <ClCompile Include="src\Snoow\Window.cpp" />
   </ItemGroup>
 </Project>
