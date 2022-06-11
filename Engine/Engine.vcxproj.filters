@@ -7,6 +7,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Snoow.h" />
+    <ClInclude Include="src\Snoow\AppWindow.h">
+      <Filter>Snoow</Filter>
+    </ClInclude>
     <ClInclude Include="src\Snoow\Core.h">
       <Filter>Snoow</Filter>
     </ClInclude>
@@ -19,10 +22,19 @@
     <ClInclude Include="src\Snoow\Main.h">
       <Filter>Snoow</Filter>
     </ClInclude>
+    <ClInclude Include="src\Snoow\Window.h">
+      <Filter>Snoow</Filter>
+    </ClInclude>
     <ClInclude Include="src\pch.h" />
-    <ClInclude Include="src\Snoow\Window.h" />
+    <ClInclude Include="src\Snoow\Event\Event.h" />
+    <ClInclude Include="src\Snoow\Event\MouseEvent.h" />
+    <ClInclude Include="src\Snoow\Event\KeyEvent.h" />
+    <ClInclude Include="src\Snoow\Event\AppEvent.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\Snoow\AppWindow.cpp">
+      <Filter>Snoow</Filter>
+    </ClCompile>
     <ClCompile Include="src\Snoow\EngineApp.cpp">
       <Filter>Snoow</Filter>
     </ClCompile>
@@ -30,7 +42,5 @@
       <Filter>Snoow</Filter>
     </ClCompile>
     <ClCompile Include="src\pch.cpp" />
-    <ClCompile Include="src\Snoow\Window.cpp" />
-    <ClCompile Include="src\Snoow\Window.cpp" />
   </ItemGroup>
 </Project>

@@ -8,9 +8,8 @@ int main(int argc, char** argv)
 {
 	
 	Snoow::Log::Init();
-	Snoow::Window::Window();
-
-	SN_CORE_CRITICAL("SNOOW CORE");
+	
+	SN_CORE_ASSERT("SNOOW CORE");
 	SN_INFO("SNOOW APP");
 
 	auto game = Snoow::CreateApp();

@@ -18,7 +18,9 @@
 #include <cmath>
 
 
-
+#include "Snoow/Log.h"
+#include "SDL.h"
+#include "GLFW/glfw3.h"
 
 
 #ifdef SN_PLATFORM_WINDOWS

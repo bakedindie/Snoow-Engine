@@ -8,6 +8,10 @@ workspace "Snoow"
     }
 
 outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
+IncludeDir = {}
+IncludeDir["glfw"] = "include/glfw/include"
+
+include "include/glfw"
 
 project "Engine"
     location "Engine"
@@ -30,7 +34,8 @@ project "Engine"
     {
         "Engine/src",
         "include/spdlog/include/",
-        "include/SDL2/include/"
+        "include/SDL2/include/",
+        "%{IncludeDir.glfw}"
     }
 
     libdirs
@@ -41,7 +46,9 @@ project "Engine"
     links
     {
         "SDL2.lib",
-        "SDL2_main.lib"
+        "SDL2_main.lib",
+        "glfw",
+        "opengl32.lib"
     }
 
     filter "system:windows"
@@ -90,7 +97,8 @@ project "Sandbox"
     {
         "include/spdlog/include/",
         "include/SDL2/include/",
-        "Engine/src"
+        "Engine/src",
+        "%{IncludeDir.glfw}"
     }
 
     libdirs
@@ -102,7 +110,9 @@ project "Sandbox"
     {
         "Engine",
         "SDL2.lib",
-        "SDL2_main.lib"
+        "SDL2_main.lib",
+        "glfw",
+        "opengl32.lib"
     }
         
     filter "system:windows"

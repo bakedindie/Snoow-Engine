@@ -27,3 +27,14 @@
 #define SN_WARN(...) Snoow::Log::GetClientLogger()->warn(__VA_ARGS__)
 #define SN_ERROR(...) Snoow::Log::GetClientLogger()->error(__VA_ARGS__)
 #define SN_CRITICAL(...) Snoow::Log::GetClientLogger()->critical(__VA_ARGS__)
+
+#define Event_Dispatch(X) _window->Eventhandler(X)
+
+
+#ifdef SN_ENABLE_ASSERTS
+	#define SN_ASSERT(X, ...) {if(!(X)) {SN_ERROR("Assertion Failed : {0}", __VA_ARG__); __debugbreak();}}
+	#define SN_CORE_ASSERT(X, ...) {if(!(X)) {SN_CORE_ERROR("Assertion Failed : {0}", __VA_ARG__); __debugbreak();}}
+#else
+#define SN_ASSERT(X, ...)
+#define SN_CORE_ASSERT(X, ...)
+#endif
